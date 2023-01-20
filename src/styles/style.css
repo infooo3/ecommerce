@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.HeaderApp {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+ * {
+    font-family: 'Lato', sans-serif;
+}
